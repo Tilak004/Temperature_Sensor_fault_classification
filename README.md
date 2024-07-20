@@ -1,1 +1,3 @@
 # Temperature_Sensor_fault_classification
+# Hello folks...
+# This is and ML project which deals with classification of faults in temperature sensors
